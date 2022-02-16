@@ -15,3 +15,6 @@ changes of their code to our machine
 ### Git push
 our code changes to their machine
 
+
+### Git add
+to add the changes to specified file
