@@ -18,4 +18,8 @@ our code changes to their machine
 ### Git add
 Command used to stage the changes from a specfic file
 
+## Terms
+
+* REPOSITORY:- Different code bases, ex:- skyhawk, zephyr
+
 
