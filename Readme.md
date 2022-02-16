@@ -22,4 +22,4 @@ Command used to stage the changes from a specfic file
 
 * REPOSITORY:- Different code bases, ex:- skyhawk, zephyr
 
-
+* Commit:- Versioning
