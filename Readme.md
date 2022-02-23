@@ -18,6 +18,9 @@ our code changes to their machine
 ### Git add
 Command used to stage the changes from a specfic file
 
+## Git rebase
+Command used to rebase any branch from another branch
+
 ## Terms
 
 * REPOSITORY:- Different code bases, ex:- skyhawk, zephyr
